@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Keyboard</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <string-array name="spnEntries">
+        <item>Mr</item>
+        <item>Miss</item>
+        <item>Mrs</item>
+        <item>Non-binary</item>
+    </string-array>
+</resources>
